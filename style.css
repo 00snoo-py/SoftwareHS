@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500&display=swap');
+
+body{
+    text-align: center;
+    font-family: 'Noto Sans KR', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+}
+.text{
+    font-size: 40px;
+    text-decoration: none;
+}
+.contain {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
